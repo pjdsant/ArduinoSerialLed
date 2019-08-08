@@ -1,0 +1,8 @@
+D:\Projetos\ArduinoLed\ArduinoLed\obj\Debug\ArduinoLed.Form1.resources
+D:\Projetos\ArduinoLed\ArduinoLed\obj\Debug\ArduinoLed.Properties.Resources.resources
+D:\Projetos\ArduinoLed\ArduinoLed\obj\Debug\ArduinoLed.csproj.GenerateResource.Cache
+D:\Projetos\ArduinoLed\ArduinoLed\bin\Debug\ArduinoLed.exe.config
+D:\Projetos\ArduinoLed\ArduinoLed\bin\Debug\ArduinoLed.exe
+D:\Projetos\ArduinoLed\ArduinoLed\bin\Debug\ArduinoLed.pdb
+D:\Projetos\ArduinoLed\ArduinoLed\obj\Debug\ArduinoLed.exe
+D:\Projetos\ArduinoLed\ArduinoLed\obj\Debug\ArduinoLed.pdb
